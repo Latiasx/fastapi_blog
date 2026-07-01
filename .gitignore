@@ -15,3 +15,4 @@ settings.json
 uv.lock
 uvicorn.err.log
 uvicorn.out.log
+blog.db
