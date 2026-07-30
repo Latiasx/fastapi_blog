@@ -79,6 +79,15 @@ button:focus-visible {
   font-weight: 600;
 }
 
+.nav-item.dropdown {
+  flex: 0 0 7rem;
+}
+
+#bd-theme {
+  text-align: center;
+  white-space: nowrap;
+}
+
 /* Content Sections */
 .content-section {
   background: var(--color-bg-content);
