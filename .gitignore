@@ -12,7 +12,6 @@ wheels/
 settings.json
 
 #uv logs
-uv.lock
 uvicorn.err.log
 uvicorn.out.log
 blog.db
